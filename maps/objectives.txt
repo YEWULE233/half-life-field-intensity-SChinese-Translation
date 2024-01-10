@@ -2,37 +2,37 @@ EMPTYOBJECTIVE -----
 
 // "HAVE A SAFE DAY"
 
-ANSWERRADIO 拿起对讲机回答。
+ANSWERRADIO 拿起对讲机回答.
 
-OPENGATES 找到打开大门的方法。
+OPENGATES 找到打开大门的方法.
 
-ENTERELEVATOR 跟随工程兵，进入电梯。
+ENTERELEVATOR 跟随工程兵，进入电梯.
 
-DORMELEVATOR 乘电梯到三层宿舍。
+DORMELEVATOR 乘电梯到三层宿舍.
 
 // HOSTILE TAKEOVER
 
-UNLOCKELEVATOR Find a way to unlock the elevator doors from the outside.
+UNLOCKELEVATOR 从外部寻找解锁电梯门的方法.
 
-DORMITORIES Search the area for other survivors.
+DORMITORIES 在该区域搜索其他幸存者.
 
-LEAVEDORMS Leave the Dormitories.
+LEAVEDORMS 离开宿舍区.
 
-SECTOR_E Proceed on to Sector E.
+SECTOR_E 前往E区继续行动.
 
 // HAZARDOUS ENVIRONMENT
 
-GAMMALABS Find a way to enter the Gamma Labs.
+GAMMALABS 找到进入伽马实验室的路径.
 
-BIOSCIENTIST Reach the scientist inside his room.
+BIOSCIENTIST 到达科学家所在房间的内部.
 
-ESCORTBIOSCI Escort the scientist to the Gamma complex entrance.
+ESCORTBIOSCI 护送科学家至伽马复合体入口.
 
-SECTOR_E2 Continue moving through Sector E.
+SECTOR_E2 继续穿越E区的行程.
 
-HEVSUIT Examine one of the H.E.V. suits.
+HEVSUIT 检查一套H.E.V防护服.
 
-JOINNOVEMBER Join Squad November.
+JOINNOVEMBER 加入11号小队.
 
 // ON THE TRACK
 
