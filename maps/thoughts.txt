@@ -1,0 +1,101 @@
+EMPTYTHOUGHT -----
+
+// "HAVE A SAFE DAY"
+
+BRIEFING We successfully infiltrated the facility. So far nothing out the ordinary, however some marines reported seeing weird things. The briefing was... well, very brief. An incident happened, and we must contain the situation. That includes the elimination of the local personnel.
+
+KEVINRADIOMAN 原来我的基友凯文是我们任务中的无线电员。他是我永远可以信赖的人。
+
+HOUNDEYES What were those strange things with three legs? The result of some experiment perhaps? Go figure.
+
+// HOSTILE TAKEOVER
+
+BROKENELEVATOR The elevator's broken. Francis is trying to fix it from the inside, but who knows how long it's gonna take. Meanwhile I'll have a look outside. Thankfully, that hatch is easy to open.
+
+HEADCRABS What were these crab creatures? I'm starting to get angry at the brass for not telling us any more specifics prior to the mission. But who knows they might not be fully aware of the situation themselves.
+
+TWOWOMEN I've got a glimpse of two women right before that door closed down. They wore some kind of body armor and are hostile to the military. But I can't judge them considering the nature of our mission.
+
+CROSSFIRE This was madness. Three sides to this conflict all fighting inside the same room: the facility personnel, these wild creatures and us, the Marines.
+
+ZOMBIES I found two members of my squad who took another elevator. What happened to them is not a fate you'd wish even your worst enemy.
+
+POWERGENERATOR The airlock should lead to the exit, but the area is out of power. I need to find a way to restore the power supply.
+
+LOCKEDAIRLOCK That damn door shut and won't open again. I'm starting to share Francis' hatred for things. Now I have to proceed alone.
+
+TERRIBLEPLACE What a terrible place. The radio doesn't work anymore and these monsters seem to wait around every other corner.
+
+ALLYPERSONNEL Some of the facility staff don't know the true purpose of our mission. They believe the military is here to rescue them. That can actually come in handy, since now I'm cut off from the rest of the squad.
+
+// HAZARDOUS ENVIRONMENT
+
+ENEMYPERSONNEL Some of the facility staff still recognize me as an enemy. Need to keep that in mind.
+
+CREATURES Did they create these creatures? Well, they were studying them for sure.
+
+SIERRASQUAD I've located Squad Sierra. Or rather their remains to be precise.
+
+GAMMAACCESS Now I can access the Gamma complex. I just need to make sure this scientist stays alive as long as required.
+
+SATELLITE A satellite? A rocket launch? This facility has a space program on top of everything else?
+
+HORNETGUN I've found one of those 'hivehands' used by the alien soldiers, detached from its owner. Should I use it as a weapon myself? At war everything becomes 'handy'. Hehe.
+
+FREEMAN Kevin is very concerned about this Freeman guy. Must be a dangerous one. I hate not being in the loop about current developments. At least Kevin is well informed.
+
+// ON THE TRACK
+
+SQUADOSCAR Squad Oscar was wiped out by alien forces. I'm moving further ahead on my own.
+
+KINGPIN What was that dreadful creature? That monster ripped the whole squad to shreds all by itself! I've managed to chase it away, but something tells me, we'll meet again.
+
+// WEAK FORCE
+
+NEWFORCE Those Black Ops forces... Are they gonna work with us? Can they be trusted?
+
+ALIENSOIL Not only are alien creatures emerging from thin air, but now it looks like pieces of another world infiltrate the complex.
+
+// RECOVERY
+
+OLDLABPORTAL I stepped into the portal thing. The place was gonna blow up anyway, so I had no choice. I still can't comprehend what I experienced afterwards.. My head is cracking.
+
+FLASHLIGHT My night-vision goggles broke down. Maybe I can find a flashlight somewhere.
+
+SECURITYGUARD This security guard is aware of our mission, but is still willing to help if I don't hurt him. I'm not in any position to blindly obey the orders anyway.
+
+GETTOSURFACE I need to get to the surface. From there I should be able to contact someone from H.E.C.U.
+
+RECONNECTION I found a radio and reestablished contact with Kevin. But these noises at the end of his transmission... Not a good sign. I hope Kevin is alright.
+
+// FIELD INTENSITY
+
+HAPPYTOLEAVE This whole mission is pure chaos. I'd be happy to leave this god forsaken place right now.
+
+EVACFAILED The evac failed. I'm on my own. Staying at the same spot is not gonna help me. Maybe I can find someone else to group up with.
+
+// THE VERGE
+
+XENPORTAL Not the first time I'm stepping into a portal. But this time I felt like something or someone is calling upon me from the other side. Maybe I'm just raving. This place looks like a dream. A bad one at that.
+
+THEIRWORLD This is definitely not a dream. This world IS real, it's just not OUR world. It's THEIRS.
+
+HALLUCINATING I'm starting to hear and see weird things. Is it a part of this world or is it just inside my head? I guess the fall didn't go so well for me after all.
+
+BEYONDWORLD There are things beyond the real world. Even beyond THIS world. Or maybe this place keeps tricking me into thinking that.
+
+// F.U.B.A.R.
+
+BACKTOEARTH I'm back on Earth. Kevin managed to reach me over the radio. It's a relief to hear his voice again.
+
+BLACKOPS The Black Ops clearly got their own agenda. They're not very friendly.
+
+KEVINWEIRD Kevin sounded so detached. Why doesn't he disclose his location?
+
+// DEATHMATCH
+
+// DEDUCTION
+
+TRUCKWAYOUT I can leave this place on the truck. I just need to gather some things. I don't have the keys and the truck is out of gas.
+
+KEVINISDEAD As it turns out, Kevin is dead. I can't even say for how long my mind played these tricky games on me, making me believe that I heard his voice. I guess, anyone would go crazy in a situation like this... Now I just want to leave this place even more.

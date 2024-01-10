@@ -1,0 +1,72 @@
+EMPTYOBJECTIVE -----
+
+// "HAVE A SAFE DAY"
+
+ANSWERRADIO 拿起对讲机回答。
+
+OPENGATES 找到打开大门的方法。
+
+ENTERELEVATOR 跟随工程兵，进入电梯。
+
+DORMELEVATOR 乘电梯到三层宿舍。
+
+// HOSTILE TAKEOVER
+
+UNLOCKELEVATOR Find a way to unlock the elevator doors from the outside.
+
+DORMITORIES Search the area for other survivors.
+
+LEAVEDORMS Leave the Dormitories.
+
+SECTOR_E Proceed on to Sector E.
+
+// HAZARDOUS ENVIRONMENT
+
+GAMMALABS Find a way to enter the Gamma Labs.
+
+BIOSCIENTIST Reach the scientist inside his room.
+
+ESCORTBIOSCI Escort the scientist to the Gamma complex entrance.
+
+SECTOR_E2 Continue moving through Sector E.
+
+HEVSUIT Examine one of the H.E.V. suits.
+
+JOINNOVEMBER Join Squad November.
+
+// ON THE TRACK
+
+LOCATEOSCAR Locate Squad Oscar.
+
+RAILSYSTEM Proceed through the rail system.
+
+JOINLIMA Join Squad Lima.
+
+OLDLABSECTOR Head to the old labs sector.
+
+// RECOVERY
+
+RESTORECONNECTION Reestablish a connection with the H.E.C.U.
+
+JOINBRAVO Join Squad Bravo.
+
+// FIELD INTENSITY
+
+EXTRACTIONPOINT Reach the extraction point.
+
+// THE VERGE
+
+// F.U.B.A.R.
+
+// DEATHMATCH
+
+ESCORTCLEANSCI Lead the scientist to the next terminal.
+MEETCLEANSCI Meet the scientist on the other side.
+
+// DEDUCTION
+
+THINGSFORTRUCK Find some gasoline and the keys for the truck.
+
+KILLFINALGARG Kill the Gargantua blocking the escape route.
+
+GETONTRUCK Get into the truck.

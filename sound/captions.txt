@@ -1,0 +1,187 @@
+// Colors
+
+// Human grunt
+hg 0 255 0
+
+// Scientist
+sc 255 255 255
+
+// Barney
+ba 0 65 255
+
+// Worker
+wr 255 128 0
+
+// Kevin
+kv 255 170 0
+
+// Good Guy Greg
+gg 85 170 127
+
+///////////////////////////
+// FIELD INTENSITY CAPTIONS
+///////////////////////////
+
+// "HAVE A SAFE DAY"
+
+KV_RESPONDA kv 奥尔·德菲尔德下士，能收到吗？请回答.
+KV_RESPONDB kv 罗密欧小队，请回答.
+
+KV_HELLO kv 史蒂芬猜猜，谁是你的无线电操作员，耶，是我——你的老基友凯文。
+
+KV_BRIEF kv 你的小队几乎到达了目的地了。根据我们的地图显示，去三层宿舍的电梯应该在附近。
+
+TG_GATES hg 电梯肯定在这个门的后面。我的焊枪没有办法切开他。。。兄啊，我都恨死那些厚的大门了。
+TG_PANEL hg 也许我们可以用... 文明点的方式去找到控制面板然后打开那个门？
+TG_NVG   hg 好了... 只有你有夜视仪，你去吧。
+
+TG_DOGS hg Never seen dogs of this breed before.
+
+KV_ELEVA kv Get into the elevator, Stefan.
+KV_ELEVB kv Oldfield, follow your squad engineer.
+
+KV_ORDER kv Remember the order, Stefan. No witnesses.
+
+// HOSTILE TAKEOVER
+
+TG_BROKEN hg Damn, something must be broken... I hate elevators.
+TG_ELEVA hg Maybe it can be fixed from the other side. Oldfield, use the hatch to get out and secure the area.
+TG_ELEVB hg I'll stay and try to figure it out here but you might have a better luck outside.
+
+KV_FREEMAN kv Everyone's talking about this Gordon Freeman guy. Looks like he's responsible for this mess. HQ sent the squad to search his dormitory.
+
+FG_LADIES hg These ladies are crazy.
+
+KV_RESTCREW kv Hey, Stefan, I haven't heard from the rest of your crew since they entered the second elevator. Have you met up with them yet?
+
+TG_ZOMBIES hg Wait. Are these things... no way.
+
+KV_NEWOBJ kv Oldfield, here's the new objective. Proceed to Sector E. It's the next place we expect Freeman to be. We need him taken alive for questioning.
+KV_THEYMAD kv By the way, the other marines really want to make this guy pay, I've heard he took down a lot of our other units... Be careful out there, man.
+
+TG_POWER hg Shit, the power is off in this area. There should be two generators somewhere... I hate power generators.
+
+TG_STUCK hg What the... I hate gates. You better proceed without me, Corporal. Seems like I'm gonna be stuck here for some time.
+
+// HAZARDOUS ENVIRONMENT
+
+KV_HEARME kv Stefan? Do you read me?
+KV_CONNECT kv Finally! This connection's been giving me hell for a while now. I see you reached the Bio-lab.
+KV_SECTORE kv Well, bad news, Gordon Freeman's on the other end of Sector E, nowhere near you.
+KV_OTHERSCI kv But there might be other scientists in this area for you to track down.
+
+KV_SIERRA kv Squad Sierra should be somewhere in Bio-Labs, but I've lost contact with them. I'm afraid you're on your own, buddy.
+
+SC_BIOHELLO sc At last, a fellow human! I guess you want to get out of the lab. The shortest way to the surface from here is through the Gamma complex. If you lead me to its entrance I can let you in.
+SC_BIOGARG sc Unfortunately, I can't get past that Gargantua in the next room.
+SC_BIOUNLOCK sc My control over the system is limited, but I can open the entrance back down in the corridor.
+
+SC_BIOTEST sc Testing, testing. I hope you can hear me.
+SC_BIOPLAN sc I know how to deal with an unwanted guest. Grab some explosive alien bugs. You can use them to kill the damned creature.
+
+SC_BIOLETSGO sc Oh, you defeated the beast! Excellent. Thank you for the help. Now we can head to the Gamma complex.
+
+SC_BIOGAMMA sc The entrance to the Gamma complex is at the end of this hallway. Let's go.
+SC_DETOUR sc Well, we'll have to take a detour here.
+
+SC_SATELLITE sc Right before you rescued me from my confinement I received a transmission from my Lambda colleagues. They said they need to get the Alpha satellite in orbit.
+SC_MILITARY sc They also tried to say something about you, military forces. Sadly the connection was broken. I presume the Lambda team just wanted you to help them with the rocket launch.
+
+KV_SATELLITE kv That's actually an interesting piece of information, regarding the satellite.
+KV_ROCKET kv The brass isn't going to be happy with rockets going off during their operation. I've forwarded them the message.
+
+KV_HEVSUIT kv These must be the same suits as the one that Gordon Freeman wears.
+KV_EXAMINEHEV kv Get a look at one of those suits, Stefan.
+KV_CHECKHEV kv Oldfield, check out that hazard suit.
+KV_HEVTRACK kv Looks like those suits have tracking devices on them. Assuming Gordon's does too, we should be able to track his movement through the facility.
+
+KV_NOVEMBER kv Squad November is right above your current location. Join them in their search for Freeman.
+
+// ON THE TRACK
+
+KV_ONTHETRACK kv Thanks to your investigation of the hazard suit, we're now on track to catch Freeman.
+
+FG_NOVHELLO hg Corporal Oldfield, it's good to see you. Oscar Squad was supposed to help us to push through this mess but it looks they've gotten into trouble. The enemy is coming in great numbers.
+FG_NOVFREEMAN hg All I want is to get my hands around Freeman's throat, but we're stuck here having to fight these aliens instead.
+
+FG_NOVNOWAYA hg Looks like all passages are locked down. Oscar Squad was supposed to open them from the other side, yet we haven't heard anything from them in a while.
+FG_NOVNOWAYB hg We need to find a way around.
+
+KV_BARNEY kv It appears Freeman is not the only pain in our butts. Some security guard rescued one of the important scientists we captured before.
+
+KV_NOVATTACKED kv Squad November is under heavy attack, Stefan. Find a way to get back there.
+
+KV_LIMAISNEAR kv Stefan, you're close to the location of the Lima squad. They need your help. Apparently the aliens have got air support.
+
+KV_ROSENBERG kv Attention, Squad Lima. Head to the old lab sector. This is where Dr. Rosenberg and his team are hiding.
+
+KV_MANTARAYS kv Manta rays. That's what we call them.
+KV_ANTIAIR kv We're not even sure if they're animals or machines. But they pose a real threat. Hopefully our anti-air forces will find a way to deal with them.
+
+// WEAK FORCE
+
+KV_BLACKOPS kv These are not our units. Someone requested reinforcements from Black Operations. I don't have a clue what their assignment is.
+KV_OBJECTIVES kv Let's focus on our objectives. We still need to catch that Freeman guy or at least Rosenberg and his team.
+
+KV_SETUPTRAP kv Squad Whiskey-Tango is about to set up a trap for Rosenberg and his crew. Your assistance is requested, Stefan. You can get to the old labs through the ventilation system.
+
+// RECOVERY
+
+SC_WOKEN sc Oh, you've woken up. I'm glad to see my life saving efforts weren't in vain.
+SC_SITUATION sc I was hoping that you soldiers had come to rescue us, but now it seems we are all in the same situation.
+SC_NOWEAPONS sc Sadly we don't have any weapons to provide you with firepower, yet we still have something to offer.
+SC_MEDKIT sc This is the portable medkit device developed within the walls of this lab. It allows you to heal your own wounds as well as your allies.
+SC_GOODLUCK sc I hope you have better luck out there, or I fear none of us will get through this alive.
+
+BA_YOUNEEDME ba Hello, soldier. I'm aware of the military plans of 'containment'. But you can't proceed without my help.
+BA_DOORACCESS ba Don't hurt me. My access code should unlock any door around this area.
+
+KV_SQUADALPHA kv Squad Alpha, do you read me?
+KV_LUCKY kv Stefan, is that you? I thought the explosion in the prototype labs turned you into dust! But here you are, lucky bastard.
+KV_EVAC kv Listen, things got really messy in your absence. We've been ordered to evacuate the facility. Join Team Bravo on their way to the extraction point.
+KV_CATCHUP kv I'll catch up with you later. Don't wait for me, fly away as soon as you get a chance.
+KV_WHATISTHIS kv What the hell?.. Um, guys?
+
+// FIELD INTENSITY
+
+FG_HEADEVAC hg Stefan? Where the hell have you been? The brass has ordered us to pull out. We must head to the evac center.
+
+GG_KEEPSEYE gg No worries! Sergeant Greg is keeping an eye on you.
+GG_BLOWGATES gg Stay away from the underground entrance. I'm gonna blow up the doors.
+
+GG_CANTBELIEVE gg Man, I can't believe I actually shot this thing down!
+GG_OHCRAP gg Holy crap! What is this shit?
+
+// F.U.B.A.R.
+
+KV_RETURN kv Stefan? It's Kevin. I thought you were lost in action... So, I guess the whole evac plan failed. I did not make it either.
+KV_REUNITE kv I wish we could reunite, but I'm sorta cut off right now. We'll talk again later, buddy.
+
+KV_RADIO kv Stefan, do you remember our military communication trainings? You were so clumsy at using the radio set. But eventually you got it right, under my strict guidance.
+KV_CONTACT kv I'm just saying, I can still find you, I can still contact you. That's a good thing.
+
+// DEATHMATCH
+
+KV_DEATH kv Even though we were trained to contain hazardous situations, nothing can prepare you for what's happening here. Here death itself assumes shapes unseen before.
+
+SC_COMMONENEMY sc A soldier! I don't know if I can trust you, but at least we have a common enemy, so we might be useful to each other.
+SC_BOTHWORK sc Since we both want to get out of here, we should work together.
+SC_LOCKEDGATES sc The main gates are locked but I can open them, if I can get to the control panel.
+SC_DANGERFIRE sc This way looks dangerous. Thank God, my suit is heat-resistant.
+SC_GETAROUND sc The control room is right around the corner. I'll go there, while you go back and find a way around this mess.
+SC_KEEPGOING sc Glad to see you're OK. We can keep going.
+SC_DANGERGAS sc These pipes pose no danger to my suit. I just hope nothing bad happens to me till we meet again.
+SC_WORRY sc I've started to worry. Mostly about myself.
+SC_DEVICE sc I would not let any soldier put their hands on this device in any normal circumstance. But the current situation is far from normal.
+SC_DISPLACER sc The displacer allows the user to travel between the borderworld and back again. But more notably, it can also be used as a weapon.
+SC_DANGERRAD sc My suit is designed to protect against high radiation levels. I will open the gates for you.
+
+// DEDUCTION
+
+KV_DARKNESS kv Stefan... I find myself trapped in the dark corner. Seeing things in their true form is getting harder. What about you, buddy? We should keep it tight till the end.
+
+KV_DOORWAY kv You're getting closer. I'm getting closer. There's a one-sided doorway between you and I. Whatever you do, don't step into it.
+
+KV_HEREIAM kv Hey, Stefan. It's me, Kevin. Here I am on the ground. Lying motionless, breathless, lifeless... I know it's hard to comprehend, but it's the truth, and you'll have to accept it.
+KV_ACCOMPANY kv I guess I just wanted to accompany you a little bit longer. Or, well, you wanted to be accompanied by me.
+KV_KEYS kv Anyways, take these keys. That truck is your only hope of getting out of here. As for me... I'm staying. I can't help you anymore. Try to get home safe. Goodbye, my friend. 
