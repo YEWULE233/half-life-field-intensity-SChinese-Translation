@@ -27,18 +27,18 @@ gg 85 170 127
 KV_RESPONDA kv 奥尔·德菲尔德下士，能收到吗？请回答.
 KV_RESPONDB kv 罗密欧小队，请回答.
 
-KV_HELLO kv 史蒂芬猜猜，谁是你的无线电操作员，耶，是我——你的老基友凯文。
+KV_HELLO kv 史蒂芬猜猜，谁是你的无线电操作员，耶，是我——你的老基友凯文.
 
-KV_BRIEF kv 你的小队几乎到达了目的地了。根据我们的地图显示，去三层宿舍的电梯应该在附近。
+KV_BRIEF kv 你的小队几乎到达了目的地了.根据我们的地图显示，去三层宿舍的电梯应该在附近.
 
-TG_GATES hg 电梯肯定在这个门的后面。我的焊枪没有办法切开他。。。兄啊，我都恨死那些厚的大门了。
+TG_GATES hg 电梯肯定在这个门的后面.我的焊枪没有办法切开他...兄啊，我都恨死那些厚的大门了.
 TG_PANEL hg 也许我们可以用... 文明点的方式去找到控制面板然后打开那个门？
-TG_NVG   hg 好了... 只有你有夜视仪，你去吧。
+TG_NVG   hg 好了... 只有你有夜视仪，你去吧.
 
-TG_DOGS hg Never seen dogs of this breed before.
+TG_DOGS hg 我以前从未进过这种品种的狗.
 
-KV_ELEVA kv Get into the elevator, Stefan.
-KV_ELEVB kv Oldfield, follow your squad engineer.
+KV_ELEVA kv 史蒂芬，进电梯.
+KV_ELEVB kv 奥尔·德菲尔德，跟随你们小队工程师行动.
 
 KV_ORDER kv Remember the order, Stefan. No witnesses.
 
