@@ -36,23 +36,23 @@ JOINNOVEMBER 加入11号小队.
 
 // ON THE TRACK
 
-LOCATEOSCAR Locate Squad Oscar.
+LOCATEOSCAR 寻找奥斯卡小队.
 
-RAILSYSTEM Proceed through the rail system.
+RAILSYSTEM 经由铁路系统前进.
 
-JOINLIMA Join Squad Lima.
+JOINLIMA 加入利马小队.
 
-OLDLABSECTOR Head to the old labs sector.
+OLDLABSECTOR 前晚旧实验室区域.
 
 // RECOVERY
 
-RESTORECONNECTION Reestablish a connection with the H.E.C.U.
+RESTORECONNECTION 重新建立与H.E.C.U的连接.
 
-JOINBRAVO Join Squad Bravo.
+JOINBRAVO 加入布拉沃小队.
 
 // FIELD INTENSITY
 
-EXTRACTIONPOINT Reach the extraction point.
+EXTRACTIONPOINT 抵达撤离点.
 
 // THE VERGE
 
@@ -60,13 +60,13 @@ EXTRACTIONPOINT Reach the extraction point.
 
 // DEATHMATCH
 
-ESCORTCLEANSCI Lead the scientist to the next terminal.
-MEETCLEANSCI Meet the scientist on the other side.
+ESCORTCLEANSCI 护送科学家到下一个终端.
+MEETCLEANSCI 在对面与科学家会合.
 
 // DEDUCTION
 
-THINGSFORTRUCK Find some gasoline and the keys for the truck.
+THINGSFORTRUCK 找到汽油和卡车钥匙.
 
-KILLFINALGARG Kill the Gargantua blocking the escape route.
+KILLFINALGARG 击杀阻挡逃生路线的巨兽.
 
-GETONTRUCK Get into the truck.
+GETONTRUCK 上车.
