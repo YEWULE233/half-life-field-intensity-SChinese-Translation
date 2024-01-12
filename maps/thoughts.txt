@@ -2,27 +2,27 @@ EMPTYTHOUGHT -----
 
 // "HAVE A SAFE DAY"
 
-BRIEFING We successfully infiltrated the facility. So far nothing out the ordinary, however some marines reported seeing weird things. The briefing was... well, very brief. An incident happened, and we must contain the situation. That includes the elimination of the local personnel.
+BRIEFING 我们成功潜入了设施，至今未发现异常情况.然而，有士兵报告看到一些怪事.简报内容……非常简短.发生了一起事故，我们必须控制局势，这包括消灭当地人员.
 
-KEVINRADIOMAN 原来我的基友凯文是我们任务中的无线电员。他是我永远可以信赖的人。
+KEVINRADIOMAN 原来我的基友凯文是我们任务中的无线电员.他是我永远可以信赖的人.
 
-HOUNDEYES What were those strange things with three legs? The result of some experiment perhaps? Go figure.
+HOUNDEYES 那些三条腿的奇怪生物是什么？也许是实验产物吧？真是搞不懂.
 
 // HOSTILE TAKEOVER
 
-BROKENELEVATOR The elevator's broken. Francis is trying to fix it from the inside, but who knows how long it's gonna take. Meanwhile I'll have a look outside. Thankfully, that hatch is easy to open.
+BROKENELEVATOR 电梯坏了.弗朗西斯正在里面尝试修理，但谁知道需要多长时间.在此期间，我会从外面查看一下.幸运的是，那个舱门很容易打开.
 
-HEADCRABS What were these crab creatures? I'm starting to get angry at the brass for not telling us any more specifics prior to the mission. But who knows they might not be fully aware of the situation themselves.
+HEADCRABS 这些像螃蟹一样的生物是什么？我开始对上级感到愤怒，他们在任务前没有告诉我们更多具体信息.但也许他们自己也并未完全了解当前形势.
 
-TWOWOMEN I've got a glimpse of two women right before that door closed down. They wore some kind of body armor and are hostile to the military. But I can't judge them considering the nature of our mission.
+TWOWOMEN 在那扇门关闭之前，我瞥见了两名女性.她们身穿某种防弹衣，并对军方持有敌意.但考虑到我们任务的本质，我无法评判她们.
 
-CROSSFIRE This was madness. Three sides to this conflict all fighting inside the same room: the facility personnel, these wild creatures and us, the Marines.
+CROSSFIRE 这简直疯狂.同一间屋子里出现了三方冲突：设施人员、那些狂野生物以及我们——海军陆战队.
 
-ZOMBIES I found two members of my squad who took another elevator. What happened to them is not a fate you'd wish even your worst enemy.
+ZOMBIES 我发现了乘坐另一部电梯的两名队员.他们的遭遇是任何人都不愿敌人遭受的命运.
 
-POWERGENERATOR The airlock should lead to the exit, but the area is out of power. I need to find a way to restore the power supply.
+POWERGENERATOR 气密门应该通往出口，但该区域电力中断.我必须找到恢复电力供应的方法
 
-LOCKEDAIRLOCK That damn door shut and won't open again. I'm starting to share Francis' hatred for things. Now I have to proceed alone.
+LOCKEDAIRLOCK 那扇讨厌的门关上了，再也打不开.我开始理解弗朗西斯对这些障碍物的厌恶之情.现在，我只能独自前行.
 
 TERRIBLEPLACE What a terrible place. The radio doesn't work anymore and these monsters seem to wait around every other corner.
 
