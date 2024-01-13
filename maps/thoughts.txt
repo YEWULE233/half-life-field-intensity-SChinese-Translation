@@ -24,78 +24,80 @@ POWERGENERATOR 气密门应该通往出口，但该区域电力中断.我必须�
 
 LOCKEDAIRLOCK 那扇讨厌的门关上了，再也打不开.我开始理解弗朗西斯对这些障碍物的厌恶之情.现在，我只能独自前行.
 
-TERRIBLEPLACE What a terrible place. The radio doesn't work anymore and these monsters seem to wait around every other corner.
+TERRIBLEPLACE 有些设施工作人员仍然视我为敌人。这一点必须铭记于心.
 
-ALLYPERSONNEL Some of the facility staff don't know the true purpose of our mission. They believe the military is here to rescue them. That can actually come in handy, since now I'm cut off from the rest of the squad.
+ALLYPERSONNEL 部分设施员工并不知道我们任务的真正目的。他们以为军队是来解救他们的。这其实对我而言可能有用，因为我现在与小队其他成员失去了联系.
 
 // HAZARDOUS ENVIRONMENT
 
-ENEMYPERSONNEL Some of the facility staff still recognize me as an enemy. Need to keep that in mind.
+ENEMYPERSONNEL 有些设施工作人员仍然视我为敌人。这一点必须铭记于心.
 
-CREATURES Did they create these creatures? Well, they were studying them for sure.
+CREATURES 他们是创造了这些生物吗？至少可以肯定的是，他们确实在研究它们.
 
-SIERRASQUAD I've located Squad Sierra. Or rather their remains to be precise.
+SIERRASQUAD 我找到了 Sierra 小队的位置。确切地说，是找到了他们的遗骸.
 
-GAMMAACCESS Now I can access the Gamma complex. I just need to make sure this scientist stays alive as long as required.
+GAMMAACCESS 现在我能够进入 Gamma 复合体了。只需要确保这位科学家在必要的时间内保持存活即可.
 
-SATELLITE A satellite? A rocket launch? This facility has a space program on top of everything else?
+SATELLITE 卫星？火箭发射？这个设施竟然还有一个太空计划？
 
-HORNETGUN I've found one of those 'hivehands' used by the alien soldiers, detached from its owner. Should I use it as a weapon myself? At war everything becomes 'handy'. Hehe.
+HORNETGUN 我发现了一只外星士兵使用的“蜂巢手”，已与其主人分离。是否应该我自己使用它作为武器呢？战争中，任何东西都可能成为“趁手”的工具。嘿嘿.
 
-FREEMAN Kevin is very concerned about this Freeman guy. Must be a dangerous one. I hate not being in the loop about current developments. At least Kevin is well informed.
+FREEMAN 凯文非常关心这个名叫弗里曼的家伙。他一定是个极度危险的人物。我不喜欢对当前事态的发展一无所知。至少凯文的信息很灵通.
 
 // ON THE TRACK
 
-SQUADOSCAR Squad Oscar was wiped out by alien forces. I'm moving further ahead on my own.
+SQUADOSCAR 小队被外星力量全灭了。现在我只能独自继续深入.
 
-KINGPIN What was that dreadful creature? That monster ripped the whole squad to shreds all by itself! I've managed to chase it away, but something tells me, we'll meet again.
+KINGPIN 那是什么可怕的生物？那个怪物独自就把整个小队撕成了碎片！虽然我已经设法把它赶走了，但有种预感我们还会再次相遇.
 
 // WEAK FORCE
 
-NEWFORCE Those Black Ops forces... Are they gonna work with us? Can they be trusted?
+NEWFORCE 那些黑色行动部队……他们会与我们合作吗？他们值得信赖吗？
 
-ALIENSOIL Not only are alien creatures emerging from thin air, but now it looks like pieces of another world infiltrate the complex.
+ALIENSOIL 不仅是外星生物凭空出现，现在看起来还有另一个世界的碎片开始渗透到这个复合体中.
 
 // RECOVERY
 
-OLDLABPORTAL I stepped into the portal thing. The place was gonna blow up anyway, so I had no choice. I still can't comprehend what I experienced afterwards.. My head is cracking.
+OLDLABPORTAL 我踏入了那个传送门装置。反正那里即将爆炸，我别无选择。但我至今仍无法理解之后经历的一切……我的脑袋都要炸裂了.
 
-FLASHLIGHT My night-vision goggles broke down. Maybe I can find a flashlight somewhere.
+FLASHLIGHT 夜视仪坏了。也许我能找个地方找到手电筒.
 
-SECURITYGUARD This security guard is aware of our mission, but is still willing to help if I don't hurt him. I'm not in any position to blindly obey the orders anyway.
+SECURITYGUARD 这个保安知道我们的任务，只要我不伤害他，他表示愿意提供帮助。反正我现在也没有盲目服从命令的立场.
 
-GETTOSURFACE I need to get to the surface. From there I should be able to contact someone from H.E.C.U.
+GETTOSURFACE 我必须到达地表。从那里应该可以联系上 H.E.C.U. 的人.
 
-RECONNECTION I found a radio and reestablished contact with Kevin. But these noises at the end of his transmission... Not a good sign. I hope Kevin is alright.
+RECONNECTION 我找到了一台无线电，并重新与凯文建立了联系。但在他的传输结束时传来的那些噪音……不是个好兆头。希望凯文一切安好.
 
 // FIELD INTENSITY
 
-HAPPYTOLEAVE This whole mission is pure chaos. I'd be happy to leave this god forsaken place right now.
+HAPPYTOLEAVE 整个任务简直是一团糟。我现在真想立刻离开这个被神遗弃的地方.
 
-EVACFAILED The evac failed. I'm on my own. Staying at the same spot is not gonna help me. Maybe I can find someone else to group up with.
+EVACFAILED 撤离失败了，我只能独自行动。留在原地毫无帮助，或许我能找到其他人结伴而行.
 
 // THE VERGE
 
-XENPORTAL Not the first time I'm stepping into a portal. But this time I felt like something or someone is calling upon me from the other side. Maybe I'm just raving. This place looks like a dream. A bad one at that.
+XENPORTAL 这已经不是我第一次踏入传送门了。但这次感觉像是有什么东西或什么人在另一边呼唤我。也许我只是在胡思乱想吧。这个地方看起来像一场梦，而且是个糟糕的梦.
 
-THEIRWORLD This is definitely not a dream. This world IS real, it's just not OUR world. It's THEIRS.
+THEIRWORLD 这绝对不是梦。这个世界是真实的，只是它不属于我们。它是他们的世界.
 
-HALLUCINATING I'm starting to hear and see weird things. Is it a part of this world or is it just inside my head? I guess the fall didn't go so well for me after all.
+HALLUCINATING 我开始听到和看到奇怪的东西。这些是这个世界的一部分，还是仅仅在我脑海里？我想那次跌落确实对我产生了不良影响.
 
-BEYONDWORLD There are things beyond the real world. Even beyond THIS world. Or maybe this place keeps tricking me into thinking that.
+BEYONDWORLD 在现实世界之外，甚至在这个世界之外，还有其他存在。或者这个地方一直在误导我，让我产生这样的想法.
 
 // F.U.B.A.R.
 
-BACKTOEARTH I'm back on Earth. Kevin managed to reach me over the radio. It's a relief to hear his voice again.
+BACKTOEARTH 我终于回到了地球。凯文通过无线电联系到了我，再次听到他的声音真是种解脱.
 
-BLACKOPS The Black Ops clearly got their own agenda. They're not very friendly.
+BLACKOPS 黑色行动部队明显有着自己的计划，他们并不友好.
 
-KEVINWEIRD Kevin sounded so detached. Why doesn't he disclose his location?
+KEVINWEIRD 于 凯文的声音听起来如此冷漠疏远。他为什么不透露自己的位置呢？
 
 // DEATHMATCH
 
 // DEDUCTION
 
-TRUCKWAYOUT I can leave this place on the truck. I just need to gather some things. I don't have the keys and the truck is out of gas.
+TRUCKWAYOUT 我可以乘坐卡车离开这个地方。只需要收拾一些必需品。不过我没有钥匙，而且卡车也没油了.
 
-KEVINISDEAD As it turns out, Kevin is dead. I can't even say for how long my mind played these tricky games on me, making me believe that I heard his voice. I guess, anyone would go crazy in a situation like this... Now I just want to leave this place even more.
+KEVINISDEAD 事实证明凯文已经死了。我甚至无法确定我的大脑欺骗了我多久，让我一直以为听到了他的声音。我想，在这样的情况下任何人都可能陷入疯狂……现在我更想尽快离开这个地方.
+
+/* end Thank you for the support of GMOS Big Ghost
