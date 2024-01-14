@@ -1,6 +1,12 @@
 # Half-Life Field Intensity 简体中文翻译项目
 
 [![GitHub license](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://choosealicense.com/licenses/gpl-3.0/)
+## 翻译进度
+
+### 完成度：85%
+
+[![Translation Progress](https://img.shields.io/badge/Progress-85%25-brightgreen.svg)](https://github.com/yourusername/yourrepository/tree/translation)
+
 
 **项目简介**
 本仓库致力于为Half-Life 1经典模组“Field Intensity”提供简体中文本地化支持，包括但不限于字幕、对话和其他相关文本内容的翻译工作。模组原项目可在ModDB上找到：[Field Intensity ModDB页面](https://www.moddb.com/mods/field-intensity)
