@@ -18,7 +18,7 @@ DORMITORIES 在该区域搜索其他幸存者.
 
 LEAVEDORMS 离开宿舍区.
 
-SECTOR_E 前往E区继续行动.
+SECTOR_E 继续前往E区行动.
 
 // HAZARDOUS ENVIRONMENT
 
@@ -26,7 +26,7 @@ GAMMALABS 找到进入伽马实验室的路径.
 
 BIOSCIENTIST 到达科学家所在房间的内部.
 
-ESCORTBIOSCI 护送科学家至伽马复合体入口.
+ESCORTBIOSCI 护送科学家至伽马实验室入口.
 
 SECTOR_E2 继续穿越E区的行程.
 
@@ -42,7 +42,7 @@ RAILSYSTEM 经由铁路系统前进.
 
 JOINLIMA 加入利马小队.
 
-OLDLABSECTOR 前晚旧实验室区域.
+OLDLABSECTOR 前往旧实验室区域.
 
 // RECOVERY
 
