@@ -40,28 +40,28 @@ TG_DOGS hg 我以前从未进过这种品种的狗.
 KV_ELEVA kv 史蒂芬，进电梯.
 KV_ELEVB kv 奥尔·德菲尔德，跟随你们小队工程师行动.
 
-KV_ORDER kv Remember the order, Stefan. No witnesses.
+KV_ORDER kv 牢记命令，史蒂芬。不留活口.
 
 // HOSTILE TAKEOVER
 
-TG_BROKEN hg Damn, something must be broken... I hate elevators.
-TG_ELEVA hg Maybe it can be fixed from the other side. Oldfield, use the hatch to get out and secure the area.
-TG_ELEVB hg I'll stay and try to figure it out here but you might have a better luck outside.
+TG_BROKEN hg 靠，好像哪里坏了... 我恨死电梯了.
+TG_ELEVA hg 也许可以从其他地方修好这东西。奥尔德菲尔德，从舱口出去探索一下下面.
+TG_ELEVB hg 我会留下来，在这看看能不能修好，但你在外面可能会运气更好罢.
 
-KV_FREEMAN kv Everyone's talking about this Gordon Freeman guy. Looks like he's responsible for this mess. HQ sent the squad to search his dormitory.
+KV_FREEMAN kv 大家都在讨论这个戈登·弗里曼的家伙，看来他要为了这团糟负责。总部派小队搜查了他的宿舍.
 
-FG_LADIES hg These ladies are crazy.
+FG_LADIES hg 净是些女朝巴（山东话）.
 
-KV_RESTCREW kv Hey, Stefan, I haven't heard from the rest of your crew since they entered the second elevator. Have you met up with them yet?
+KV_RESTCREW kv 嘿，史蒂芬。自从你们其他人进入2号电梯后，我就再也没有收到他们的消息了。你见到他们吗?
 
-TG_ZOMBIES hg Wait. Are these things... no way.
+TG_ZOMBIES hg 等等，这些东西...不可能.
 
-KV_NEWOBJ kv Oldfield, here's the new objective. Proceed to Sector E. It's the next place we expect Freeman to be. We need him taken alive for questioning.
-KV_THEYMAD kv By the way, the other marines really want to make this guy pay, I've heard he took down a lot of our other units... Be careful out there, man.
+KV_NEWOBJ kv 奥德菲尔德，给你个新任务。前往E区。这有可能是戈登·弗里曼所在的位置。给我捉活的，好带审问.
+KV_THEYMAD kv 顺便说下，其他海军陆战队真恨不得扒了他的皮，我听说他K了我们很多人...小心点，老兄.
 
-TG_POWER hg Shit, the power is off in this area. There should be two generators somewhere... I hate power generators.
+TG_POWER hg 妈了个巴子，这地方没电了。这里应该有两台发电机来着...我讨厌发电机.
 
-TG_STUCK hg What the... I hate gates. You better proceed without me, Corporal. Seems like I'm gonna be stuck here for some time.
+TG_STUCK hg 什么...鬼，这该死的门。下士，你自己先去吧。我好像要被困在这里很久了.
 
 // HAZARDOUS ENVIRONMENT
 
