@@ -3,9 +3,9 @@
 [![GitHub license](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://choosealicense.com/licenses/gpl-3.0/)
 ## 翻译进度
 
-### 完成度：85%
+### 完成度：90%
 
-[![Translation Progress](https://img.shields.io/badge/Progress-85%25-brightgreen.svg)](https://github.com/yourusername/yourrepository/tree/translation)
+[![Translation Progress](https://img.shields.io/badge/Progress-90%25-brightgreen.svg)](https://github.com/yourusername/yourrepository/tree/translation)
 
 
 **项目简介**
@@ -16,17 +16,23 @@
 
 ## 参与翻译人员
 ### AI预翻译
-- 用户名：Stephen-cusi（此处应填写您的GitHub用户名）
+- 用户名：Stephen-cusi
 
 ### 校对与修正翻译
-- Stephen-Cusi  
+- 百科全叔 
+ B站主页: [百科全叔的个人空间](https://b23.tv/HudDb91)
   
 - YEWULE233  
   GitHub主页: [https://github.com/YEWULE233](https://github.com/YEWULE233)
 
+- B站主页: [爷无观察官方账号的个人空间](https://b23.tv/ylSCGuc)
+
 ## 仓库地址
 此项目的GitHub仓库地址为：
 - [half-life-field-intensity-SChinese-Translation](https://github.com/YEWULE233/half-life-field-intensity-SChinese-Translation)
+
+## 大锤汉化组
+- [大锤汉化组QQ群链接](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=tdmkq1tIbkZZ_wcdBFDiEQT0EZ16ZfYe&authKey=jFze2cGOBWLlkvIpQvZ3bSWHK%2F50x50zInmObzrIFdHBMDaGvVY4eo%2FLcr1%2BcT9o&noverify=0&group_code=454896464)
 
 ## 如何参与或使用翻译成果
 1. **贡献者指南**：欢迎任何有兴趣加入我们进行校对、补充翻译或改进的开发者。
