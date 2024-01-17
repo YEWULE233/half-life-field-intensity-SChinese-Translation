@@ -35,7 +35,7 @@ TG_GATES hg 电梯肯定在这个门的后面.我的焊枪没有办法切开他.
 TG_PANEL hg 也许我们可以用... 文明点的方式去找到控制面板然后打开那个门？
 TG_NVG   hg 好了... 只有你有夜视仪，你去吧.
 
-TG_DOGS hg 我以前从未进过这种品种的狗.
+TG_DOGS hg 我以前从未见过这种品种的狗.
 
 KV_ELEVA kv 史蒂芬，进电梯.
 KV_ELEVB kv 奥尔·德菲尔德，跟随你们小队工程师行动.
@@ -65,37 +65,37 @@ TG_STUCK hg 什么...鬼，这该死的门。下士，你自己先去吧。我�
 
 // HAZARDOUS ENVIRONMENT
 
-KV_HEARME kv Stefan? Do you read me?
-KV_CONNECT kv Finally! This connection's been giving me hell for a while now. I see you reached the Bio-lab.
-KV_SECTORE kv Well, bad news, Gordon Freeman's on the other end of Sector E, nowhere near you.
-KV_OTHERSCI kv But there might be other scientists in this area for you to track down.
+KV_HEARME kv 史蒂芬? 听得到吗?
+KV_CONNECT kv 终于! 我刚才一直在想办法跟你重连呢，我看见你已经到生物实验室了.
+KV_SECTORE kv 额, 坏消息, 戈登·弗里曼在E区另一头, 离你老远了.
+KV_OTHERSCI kv 但这一带可能会有其他科学家在那，你得要去把他们揪出来.
 
-KV_SIERRA kv Squad Sierra should be somewhere in Bio-Labs, but I've lost contact with them. I'm afraid you're on your own, buddy.
+KV_SIERRA kv 雪乐山小队应该在生物实验室的某个地方，但我已经失去了与他们的联系。恐怕你只能靠自己了，兄弟.
 
-SC_BIOHELLO sc At last, a fellow human! I guess you want to get out of the lab. The shortest way to the surface from here is through the Gamma complex. If you lead me to its entrance I can let you in.
-SC_BIOGARG sc Unfortunately, I can't get past that Gargantua in the next room.
-SC_BIOUNLOCK sc My control over the system is limited, but I can open the entrance back down in the corridor.
+SC_BIOHELLO sc 太好了, 有活人来了! 我猜你肯定想逃出这个实验室. 从这里到地面最短的路线是通过伽马中心. 如果你带我去那边的入口我就让你进去.
+SC_BIOGARG sc Unfortunately, 不幸的是，我不能穿过那个有喷火怪的房间.
+SC_BIOUNLOCK sc 我的权限有限，但我能帮你打开走廊后面的入口.
 
-SC_BIOTEST sc Testing, testing. I hope you can hear me.
-SC_BIOPLAN sc I know how to deal with an unwanted guest. Grab some explosive alien bugs. You can use them to kill the damned creature.
+SC_BIOTEST sc 喂喂喂. 我希望你能听见我说话.
+SC_BIOPLAN sc 我知道咋对付这些不速之客了. 你可以抓一些外星爆炸小虫虫（蛇鲨）. 用它来杀掉那些天杀的怪物.
 
-SC_BIOLETSGO sc Oh, you defeated the beast! Excellent. Thank you for the help. Now we can head to the Gamma complex.
+SC_BIOLETSGO sc 哦，你打败了喷火怪！谢谢你啊。现在我们可以去伽马中心了.
 
-SC_BIOGAMMA sc The entrance to the Gamma complex is at the end of this hallway. Let's go.
-SC_DETOUR sc Well, we'll have to take a detour here.
+SC_BIOGAMMA sc 伽马中心的出口在走廊的尽头。咱们出发吧.
+SC_DETOUR sc 好吧，看来我们得绕路了.
 
-SC_SATELLITE sc Right before you rescued me from my confinement I received a transmission from my Lambda colleagues. They said they need to get the Alpha satellite in orbit.
-SC_MILITARY sc They also tried to say something about you, military forces. Sadly the connection was broken. I presume the Lambda team just wanted you to help them with the rocket launch.
+SC_SATELLITE sc 就在你救我之前我收到了一条来自拉姆达小组同事的信息，他们说他们需要在轨道上的阿尔法卫星.
+SC_MILITARY sc 他们也想尝试想跟你说些什么, 马润哥哥. 可惜的是通讯坏掉了. 我猜拉姆达小组是想让你去发射火箭.
 
-KV_SATELLITE kv That's actually an interesting piece of information, regarding the satellite.
-KV_ROCKET kv The brass isn't going to be happy with rockets going off during their operation. I've forwarded them the message.
+KV_SATELLITE kv 这真是个有趣的消息，关于卫星.
+KV_ROCKET kv 上面的可不会在任务中看到火箭发射成功而感到高兴. 我现在已经把消息转发给他们了.
 
-KV_HEVSUIT kv These must be the same suits as the one that Gordon Freeman wears.
-KV_EXAMINEHEV kv Get a look at one of those suits, Stefan.
-KV_CHECKHEV kv Oldfield, check out that hazard suit.
-KV_HEVTRACK kv Looks like those suits have tracking devices on them. Assuming Gordon's does too, we should be able to track his movement through the facility.
+KV_HEVSUIT kv 这些防护服肯定是和戈登·弗里曼同款的.
+KV_EXAMINEHEV kv 上去看看其中一套，史蒂芬.
+KV_CHECKHEV kv 奥德菲尔德, 检查下这个防护服.
+KV_HEVTRACK kv 看起来那些防护服上有追踪定位器。假如戈登也有这种，我们应该能够在整个设施内追踪到他的下落了.
 
-KV_NOVEMBER kv Squad November is right above your current location. Join them in their search for Freeman.
+KV_NOVEMBER kv 十一月小队就在你当前位置的正上方。加入他们搜素弗里曼的行动.
 
 // ON THE TRACK
 
