@@ -22,17 +22,17 @@ SECTOR_E 继续前往E区行动.
 
 // HAZARDOUS ENVIRONMENT
 
-GAMMALABS 找到进入伽马实验室的路径.
+GAMMALABS 找到进入伽马中心的路径.
 
 BIOSCIENTIST 到达科学家所在房间的内部.
 
-ESCORTBIOSCI 护送科学家至伽马实验室入口.
+ESCORTBIOSCI 护送科学家至伽马中心的出口.
 
 SECTOR_E2 继续穿越E区的行程.
 
 HEVSUIT 检查一套H.E.V防护服.
 
-JOINNOVEMBER 加入11号小队.
+JOINNOVEMBER 加入11月小队.
 
 // ON THE TRACK
 
