@@ -184,5 +184,5 @@ KV_DOORWAY kv You're getting closer. I'm getting closer. There's a one-sided doo
 
 KV_HEREIAM kv Hey, Stefan. It's me, Kevin. Here I am on the ground. Lying motionless, breathless, lifeless... I know it's hard to comprehend, but it's the truth, and you'll have to accept it.
 KV_ACCOMPANY kv I guess I just wanted to accompany you a little bit longer. Or, well, you wanted to be accompanied by me.
-KV_KEYS kv Anyways, take these keys. That truck is your only hope of getting out of here. As for me... I'm staying. I can't help you anymore. Try to get home safe. Goodbye, my friend. 
+KV_KEYS kv 总之，拿着这些钥匙.那辆卡车是你离开这里的唯一希望. 至于我... 我会留在这里. 我不能再帮助你了. 祝你平安回家. 再见了，我的朋友.
  
