@@ -120,27 +120,27 @@ KV_ANTIAIR kv 我们他妈的都没法确定他们是生物还是机器. 但是�
 
 // WEAK FORCE
 
-KV_BLACKOPS kv These are not our units. Someone requested reinforcements from Black Operations. I don't have a clue what their assignment is.
-KV_OBJECTIVES kv Let's focus on our objectives. We still need to catch that Freeman guy or at least Rosenberg and his team.
+KV_BLACKOPS kv 这些不是我们的单位。有人从黑色行动请求了增援。我不知道他们的任务是什么.
+KV_OBJECTIVES kv 让我们专注于我们的目标。我们仍然需要抓住那个弗里曼家伙，或者至少是罗森伯格和他的团队.
 
-KV_SETUPTRAP kv Squad Whiskey-Tango is about to set up a trap for Rosenberg and his crew. Your assistance is requested, Stefan. You can get to the old labs through the ventilation system.
+KV_SETUPTRAP kv 小队Whiskey-Tango即将为罗森伯格和他的团队设置陷阱。需要你的协助，史蒂芬。你可以通过通风系统到达旧实验室.
 
 // RECOVERY
 
-SC_WOKEN sc Oh, you've woken up. I'm glad to see my life saving efforts weren't in vain.
-SC_SITUATION sc I was hoping that you soldiers had come to rescue us, but now it seems we are all in the same situation.
-SC_NOWEAPONS sc Sadly we don't have any weapons to provide you with firepower, yet we still have something to offer.
-SC_MEDKIT sc This is the portable medkit device developed within the walls of this lab. It allows you to heal your own wounds as well as your allies.
-SC_GOODLUCK sc I hope you have better luck out there, or I fear none of us will get through this alive.
+SC_WOKEN sc  哦，你醒了。我很高兴看到我的救命努力没有白费.
+SC_SITUATION sc  我原本希望你们士兵来救援我们，但现在看起来我们都处于同样的境地.
+SC_NOWEAPONS sc 很遗憾我们没有武器为你提供火力，但我们仍然有东西可以提供.
+SC_MEDKIT sc  这是在这个实验室内部开发的便携式医疗包。它可以让你治疗自己的伤口以及你的盟友.
+SC_GOODLUCK sc 我希望你在外面运气更好，否则我担心我们都不会活着离开这里.
 
-BA_YOUNEEDME ba Hello, soldier. I'm aware of the military plans of 'containment'. But you can't proceed without my help.
-BA_DOORACCESS ba Don't hurt me. My access code should unlock any door around this area.
+BA_YOUNEEDME ba 你好，士兵。我知道“遏制”的军事计划。但如果没有我的帮助，你无法继续前进.
+BA_DOORACCESS ba 不要伤害我。我的访问代码应该可以解锁这个区域周围的任何门.
 
-KV_SQUADALPHA kv Squad Alpha, do you read me?
-KV_LUCKY kv Stefan, is that you? I thought the explosion in the prototype labs turned you into dust! But here you are, lucky bastard.
-KV_EVAC kv Listen, things got really messy in your absence. We've been ordered to evacuate the facility. Join Team Bravo on their way to the extraction point.
-KV_CATCHUP kv I'll catch up with you later. Don't wait for me, fly away as soon as you get a chance.
-KV_WHATISTHIS kv What the hell?.. Um, guys?
+KV_SQUADALPHA kv 阿尔法小队，你们听到我吗？
+KV_LUCKY kv 史蒂芬，是你吗？我以为你在原型实验室的爆炸中化为灰烬了！但你却在这里，幸运的家伙.
+KV_EVAC kv 听着，事情在你缺席期间变得非常混乱。我们被命令撤离设施。加入布拉沃小队前往撤离点.
+KV_CATCHUP kv 我会尽快赶上你。不要等我，一旦有机会就飞走.
+KV_WHATISTHIS kv  这是什么鬼？.. 呃，伙计们？
 
 // FIELD INTENSITY
 
