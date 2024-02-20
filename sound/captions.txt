@@ -144,21 +144,21 @@ KV_WHATISTHIS kv  这是什么鬼？.. 呃，伙计们？
 
 // FIELD INTENSITY
 
-FG_HEADEVAC hg Stefan? Where the hell have you been? The brass has ordered us to pull out. We must head to the evac center.
+FG_HEADEVAC hg 史蒂芬你他妈去哪了? 上头的命令我们撤退. 我们必须前往撤离中心.
 
-GG_KEEPSEYE gg No worries! Sergeant Greg is keeping an eye on you.
-GG_BLOWGATES gg Stay away from the underground entrance. I'm gonna blow up the doors.
+GG_KEEPSEYE gg 不用担心! 格雷戈中士护着你呢.
+GG_BLOWGATES gg 离地下入口远点. 我要把门炸了.
 
-GG_CANTBELIEVE gg Man, I can't believe I actually shot this thing down!
-GG_OHCRAP gg Holy crap! What is this shit?
+GG_CANTBELIEVE gg 卧槽，我不敢相信我他妈的真的把那玩意打下来了!
+GG_OHCRAP gg 卧槽! 这是什么几把?
 
 // F.U.B.A.R.
 
-KV_RETURN kv Stefan? It's Kevin. I thought you were lost in action... So, I guess the whole evac plan failed. I did not make it either.
-KV_REUNITE kv I wish we could reunite, but I'm sorta cut off right now. We'll talk again later, buddy.
+KV_RETURN kv 史蒂芬? 我是凯文. 我还以为你在行动中牺牲了... 所以，这个计划大概是失败了. 我也没能坚持下去.
+KV_REUNITE kv 我真希望我们能重聚, 但我现在有点被切断了。我们稍后再谈，伙计.
 
-KV_RADIO kv Stefan, do you remember our military communication trainings? You were so clumsy at using the radio set. But eventually you got it right, under my strict guidance.
-KV_CONTACT kv I'm just saying, I can still find you, I can still contact you. That's a good thing.
+KV_RADIO kv 史蒂芬, 你还记得我们军事通信训练吗? 你当时是对使用通信设备一窍不通. 但你在我的严格管理下最终还是搞明白了.
+KV_CONTACT kv 我说, 我仍然可以找到你， 我依然可以联系到你 这挺好的.
 
 // DEATHMATCH
 
@@ -184,5 +184,5 @@ KV_DOORWAY kv You're getting closer. I'm getting closer. There's a one-sided doo
 
 KV_HEREIAM kv Hey, Stefan. It's me, Kevin. Here I am on the ground. Lying motionless, breathless, lifeless... I know it's hard to comprehend, but it's the truth, and you'll have to accept it.
 KV_ACCOMPANY kv I guess I just wanted to accompany you a little bit longer. Or, well, you wanted to be accompanied by me.
-KV_KEYS kv 总之，拿着这些钥匙.那辆卡车是你离开这里的唯一希望. 至于我... 我会留在这里. 我不能再帮助你了. 祝你平安回家. 再见了，我的朋友.
+KV_KEYS kv 总之，拿着这些钥匙.那辆卡车是你离开这里的唯一希望. 至于我... 我会留在这里. 我不能再帮助你了. 祝你好运. 再见了，我的朋友.
  
