@@ -109,14 +109,14 @@ FG_NOVNOWAYB hg 我们需要找一个出路.
 
 KV_BARNEY kv 这说明弗里曼并不是扎我们屁股里的唯一一颗钉子. 一些保安救了一个我们之前抓住的重要科学家.
 
-KV_NOVATTACKED kv 十一月小队正在遭受猛烈的攻击，史蒂芬.快找到回去的道路.
+KV_NOVATTACKED kv 十一月小队正在遭受猛烈的攻击，史蒂芬.快找到回去的路.
 
 KV_LIMAISNEAR kv 史蒂芬，你接近利马小队所在的位置了，他们需要你的帮助. 显然外星人呼叫空中支援了.
 
-KV_ROSENBERG kv Attention, Squad Lima. Head to the old lab sector. This is where Dr. Rosenberg and his team are hiding.
+KV_ROSENBERG kv 利马小队注意. 前往老实验室. 那是罗森博格博士和他的小队的藏身处.
 
-KV_MANTARAYS kv Manta rays. That's what we call them.
-KV_ANTIAIR kv We're not even sure if they're animals or machines. But they pose a real threat. Hopefully our anti-air forces will find a way to deal with them.
+KV_MANTARAYS kv 曼塔射线. 我们都这么叫它.
+KV_ANTIAIR kv 我们他妈的都没法确定他们是生物还是机器. 但是他们造成的威胁很大. 希望我们的防空力量可以找到来方法解对付他们.
 
 // WEAK FORCE
 
