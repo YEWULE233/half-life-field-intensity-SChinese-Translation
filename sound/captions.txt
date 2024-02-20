@@ -162,9 +162,9 @@ KV_CONTACT kv 我说, 我仍然可以找到你， 我依然可以联系到你 �
 
 // DEATHMATCH
 
-KV_DEATH kv 就算我们训练过如何应对危险的情况, 没人能预料到这里会发生什么. 在这里，死亡本身呈现出看不见的形状.
+KV_DEATH kv 就算我们训练过如何应对危险的情况, 没人能料到这里会发生什么. 在这里，死亡是无法预料的.
 
-SC_COMMONENEMY sc A soldier! I don't know if I can trust you, but at least we have a common enemy, so we might be useful to each other.
+SC_COMMONENEMY sc 一个士兵! 我不知道我能否信任你, but at least we have a common enemy, so we might be useful to each other.
 SC_BOTHWORK sc Since we both want to get out of here, we should work together.
 SC_LOCKEDGATES sc The main gates are locked but I can open them, if I can get to the control panel.
 SC_DANGERFIRE sc This way looks dangerous. Thank God, my suit is heat-resistant.
