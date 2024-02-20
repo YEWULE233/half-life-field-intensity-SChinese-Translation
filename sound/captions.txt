@@ -162,7 +162,7 @@ KV_CONTACT kv 我说, 我仍然可以找到你， 我依然可以联系到你 �
 
 // DEATHMATCH
 
-KV_DEATH kv Even though we were trained to contain hazardous situations, nothing can prepare you for what's happening here. Here death itself assumes shapes unseen before.
+KV_DEATH kv 就算我们训练过如何应对危险的情况, 没人能预料到这里会发生什么. 在这里，死亡本身呈现出看不见的形状.
 
 SC_COMMONENEMY sc A soldier! I don't know if I can trust you, but at least we have a common enemy, so we might be useful to each other.
 SC_BOTHWORK sc Since we both want to get out of here, we should work together.
