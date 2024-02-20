@@ -73,7 +73,7 @@ KV_OTHERSCI kv 但这一带可能会有其他科学家在那，你得要去把�
 KV_SIERRA kv 雪乐山小队应该在生物实验室的某个地方，但我已经失去了与他们的联系。恐怕你只能靠自己了，兄弟.
 
 SC_BIOHELLO sc 太好了, 有活人来了! 我猜你肯定想逃出这个实验室. 从这里到地面最短的路线是通过伽马中心. 如果你带我去那边的入口我就让你进去.
-SC_BIOGARG sc Unfortunately, 不幸的是，我不能穿过那个有喷火怪的房间.
+SC_BIOGARG sc 不幸的是，我不能穿过那个有喷火怪的房间.
 SC_BIOUNLOCK sc 我的权限有限，但我能帮你打开走廊后面的入口.
 
 SC_BIOTEST sc 喂喂喂. 我希望你能听见我说话.
@@ -101,17 +101,17 @@ KV_NOVEMBER kv 十一月小队就在你当前位置的正上方。加入他们�
 
 KV_ONTHETRACK kv 谢谢你对防护服做的调查，我们对弗里曼的抓捕工作已经步入正轨了
 
-FG_NOVHELLO hg 欧菲尔德下士，见到你真高兴. 奥斯卡战术小队本应该帮助我们度过这个烂摊子的， 但是他们好像卷入麻烦中了. 不少敌军正在赶来的路上.
-FG_NOVFREEMAN hg All I want is to get my hands around Freeman's throat, but we're stuck here having to fight these aliens instead.
+FG_NOVHELLO hg 欧菲尔德下士，见到你真高兴. 奥斯卡小队本应该帮助我们度过这个烂摊子的， 但是他们好像卷入麻烦中了. 不少敌军正在赶来的路上.
+FG_NOVFREEMAN hg 我只想狠狠掐住弗里曼的脖子把他抓了, 我们却困在这里被迫与这些外星怪物搏斗.
 
-FG_NOVNOWAYA hg Looks like all passages are locked down. Oscar Squad was supposed to open them from the other side, yet we haven't heard anything from them in a while.
-FG_NOVNOWAYB hg We need to find a way around.
+FG_NOVNOWAYA hg 看来所有的通路都被锁住了. 奥斯卡小队本应该从另一头打开他们的, 然而，我们已经有一段时间没有收到他们的消息了.
+FG_NOVNOWAYB hg 我们需要找一个出路.
 
-KV_BARNEY kv It appears Freeman is not the only pain in our butts. Some security guard rescued one of the important scientists we captured before.
+KV_BARNEY kv 这说明弗里曼并不是扎我们屁股里的唯一一颗钉子. 一些保安救了一个我们之前抓住的重要科学家.
 
-KV_NOVATTACKED kv Squad November is under heavy attack, Stefan. Find a way to get back there.
+KV_NOVATTACKED kv 十一月小队正在遭受猛烈的攻击，史蒂芬.快找到回去的道路.
 
-KV_LIMAISNEAR kv Stefan, you're close to the location of the Lima squad. They need your help. Apparently the aliens have got air support.
+KV_LIMAISNEAR kv 史蒂芬，你接近利马小队所在的位置了，他们需要你的帮助. 显然外星人呼叫空中支援了.
 
 KV_ROSENBERG kv Attention, Squad Lima. Head to the old lab sector. This is where Dr. Rosenberg and his team are hiding.
 
