@@ -99,9 +99,9 @@ KV_NOVEMBER kv 十一月小队就在你当前位置的正上方。加入他们�
 
 // ON THE TRACK
 
-KV_ONTHETRACK kv Thanks to your investigation of the hazard suit, we're now on track to catch Freeman.
+KV_ONTHETRACK kv 谢谢你对防护服做的调查，我们对弗里曼的抓捕工作已经步入正轨了
 
-FG_NOVHELLO hg Corporal Oldfield, it's good to see you. Oscar Squad was supposed to help us to push through this mess but it looks they've gotten into trouble. The enemy is coming in great numbers.
+FG_NOVHELLO hg 欧菲尔德下士，见到你真高兴. 奥斯卡战术小队本应该帮助我们度过这个烂摊子的， 但是他们好像卷入麻烦中了. 不少敌军正在赶来的路上.
 FG_NOVFREEMAN hg All I want is to get my hands around Freeman's throat, but we're stuck here having to fight these aliens instead.
 
 FG_NOVNOWAYA hg Looks like all passages are locked down. Oscar Squad was supposed to open them from the other side, yet we haven't heard anything from them in a while.
